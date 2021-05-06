@@ -5,7 +5,7 @@ const BLOG = {
   link: 'https://blog.fantasywk.tech',
   description: 'Just Blog',
   lang: 'zh-CN',
-  appearance: 'auto', // ['light', 'dark', 'auto'],
+  appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#111827', // use hex value, don't forget '#'
