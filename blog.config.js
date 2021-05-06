@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Kevin Wang',
   email: 'wangkai0224@foxmail.com',
   link: 'https://blog.fantasywk.tech',
-  description: 'Just Blog',
+  description: 'Just Code',
   lang: 'zh-CN',
   appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
